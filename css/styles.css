@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(58, 134, 189);
+    margin:-9px -9px 3px -9px;
+    text-align: center;
+    padding:20px;
+    color:antiquewhite
+}
+#img1{
+    width: 350x;
+}
+
+img{
+margin-top: 50px;
+margin-bottom: -4px;
+width:500px;
+
+}
+
+nav{
+    background-image: linear-gradient(#0f2f53, #2561bb);
+    margin: -8px -8px -8px -9px;
+    padding:10px;
+    
+}
+
+a{
+    color:rgb(230, 242, 255);
+    text-decoration: none;
+}
+
+P{
+    padding:20px;
+    margin:20px 28px 20px 30px;
+    border: rgb(82, 82, 160) 2px solid;
+    border-radius: 2rem;
+}
+#home{
+    background-color:rgb(223, 246, 255);
+}
+
+#images{
+    background-color: rgb(223, 246, 255);
+}
+h2{
+    margin:20px;
+    color:rgb(20, 29, 163)
+}
